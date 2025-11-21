@@ -1,0 +1,16 @@
+[
+    {
+        "messageNumber": 0,
+        "recipient": "+27718693002",
+        "messageID": "7840044222",
+        "messageHash": "78:0:TESTSTORE",
+        "message": "Test store"
+    },
+    {
+        "messageNumber": 2,
+        "recipient": "+27812501529",
+        "messageID": "8091311063",
+        "messageHash": "80:2:WHENCOMING",
+        "message": "when are you coming"
+    }
+]
